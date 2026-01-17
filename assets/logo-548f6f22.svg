@@ -1,0 +1,35 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer Red R -->
+  <path
+    d="M120 80
+       H280
+       C360 80 380 140 380 180
+       C380 220 350 260 300 270
+       L380 420
+       H300
+       L230 290
+       H200
+       V420
+       H120
+       Z"
+    fill="#d60000"/>
+
+  <!-- Inner White R -->
+  <path
+    d="M160 120
+       H260
+       C310 120 320 150 320 180
+       C320 210 295 235 255 235
+       H160
+       Z"
+    fill="#ffffff"/>
+
+  <!-- Inner Leg Cut -->
+  <path
+    d="M220 260
+       L300 420
+       H250
+       L190 300
+       Z"
+    fill="#ffffff"/>
+</svg>
